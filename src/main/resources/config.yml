@@ -1,0 +1,4 @@
+database:
+  h2: "h2database"
+announce: 5
+draw: 1440
