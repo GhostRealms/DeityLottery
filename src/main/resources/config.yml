@@ -2,3 +2,5 @@ database:
   h2: "h2database"
 announce: 5
 draw: 1440
+lang:
+  prefix: "&7[DeityLotto] "
